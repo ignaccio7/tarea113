@@ -10,7 +10,7 @@ html {
 .social{
 	position: fixed;
 	left: 0;
-	top: 200px;
+	top: 250px;
 	z-index: 2000;
 }
 .social ul {
