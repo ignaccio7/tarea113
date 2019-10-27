@@ -392,7 +392,7 @@ footer .formulario form .grupo-form textarea {
 	min-height: 100px;
 }
 
-footer .formulario form .grupo-form input[type="text"],input[type="submit"], textarea, input[type="reset"] {
+footer .formulario form .grupo-form input[type="text"],input[type="submit"], textarea, input[type="reset"], input[type="email"] {
 	display: block;
 	padding: 10px;
 	margin: 10px 0px 0px 0px;
